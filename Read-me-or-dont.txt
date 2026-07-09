@@ -1,0 +1,1 @@
+This is just a simple weppage that will automaticaly redirect you to the UvikOS pages hosted on admin-iget.github.io/test/.
